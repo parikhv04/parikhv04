@@ -59,8 +59,6 @@ I'm especially interested in:
 > **[TBA]**
 > 
 >
-> <!--  **Tech used:** [e.g. Python, scikit-learn, Pandas]
-> **Sponsor:** [Company name] -->
 
 ---
 
