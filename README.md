@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm Vraj — a rising junior at **UNC Chapel Hill**, double majoring in **Public Health (Health Policy & Management)** and **Statistics & Analytics**. I'm currently an **ML/AI Fellow with Break Through Tech**, and I work at the intersection of **healthcare, finance, and data science** — using analytics and machine learning to turn messy, real-world data into decisions people can actually act on.
+I am Vraj — a rising junior at **UNC Chapel Hill**, double majoring in **Public Health (Health Policy & Management)** and **Statistics & Analytics**. I'm currently an **ML/AI Fellow with Break Through Tech**, and I work at the intersection of **healthcare, finance, and data science**, using analytics and machine learning to turn messy data into decisions people can actually act on.
 
 I'm especially interested in:
 - 🏥 Healthcare analytics & health equity
