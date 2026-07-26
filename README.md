@@ -29,7 +29,7 @@ I'm especially interested in:
 
 ## 🔭 Right Now
 
-- 🔭 **Working on:** Consolidating deposit fee analytics pipelines in SQL as a Data Analytics Summer Analyst @ Bank of America
+- 🔭 **Working on:** Consolidating deposit fee analytics pipelines in SQL as a Quantitative Analyst @ Bank of America
 - 🌱 **Learning:** Applied ML/AI foundations as a **Break Through Tech AI Fellow**
 - 🔬 **Researching:** Censoring-adjusted risk stratification models for Huntington's disease @ UNC's Methods for Incomplete Data (MIND) Lab
 - 👯 **Open to collaborating on:** healthcare analytics, ML for social good, and health policy + data crossover projects
@@ -56,14 +56,11 @@ I'm especially interested in:
 
 ## 📌 Pinned: Break Through Tech AI Studio Project
 
-> **[Add your project name here]**
-> One-line summary of the problem your team tackled and who it was built for.
+> **[TBA]**
+> 
 >
 > **Tech used:** [e.g. Python, scikit-learn, Pandas]
 > **Sponsor:** [Company name]
-> 🔗 [Repo link] · [Demo/deck link]
-
-*(Swap this whole block in once your capstone project wraps — this is exactly the kind of company-sponsored work recruiters look for first.)*
 
 ---
 
@@ -73,25 +70,22 @@ I'm especially interested in:
 Led an analysis of CMS's 5-Star Hospital Quality Rating System across **2,750 Medicare-registered hospitals** to separate genuine clinical quality signal from structural bias.
 - **Tech:** Python (regression, regularization, ML models)
 - **Problem solved:** Identified persistent rating advantages tied to hospital ownership and geography — even after controlling for patient experience — raising questions about how "objective" these ratings really are.
-- 🔗 *[Add repo/poster link]*
 
 ### 🧬 Huntington's Disease Risk Stratification
 Research with UNC's Methods for Incomplete Data Lab, externally validating HD progression models using an independent ENROLL-HD dataset.
 - **Tech:** R (custom package development, censoring-adjusted calibration metrics)
 - **Problem solved:** Showed that the right model choice can meaningfully shrink the sample size needed for adequately powered clinical trials — directly relevant to designing better trials for rare neurodegenerative diseases.
-- 🔗 *[Add poster/repo link]*
+- 🔗 *[https://arxiv.org/abs/2511.03596]*
 
 ### ☕ Caffeine Consumption & Perceived Stress Among UNC Students
 Cross-sectional study on whether high caffeine intake correlates with elevated stress in undergraduates.
 - **Tech:** SAS, Epi Info (logistic regression, odds ratios)
 - **Problem solved:** Quantified the association while adjusting for confounders — a small-scale but rigorous epi study from the ground up.
-- 🔗 *[Add repo/writeup link]*
 
 ### 🩺 Primary Care Access & Health Equity Mapping (Chicago)
 Analyzed the distribution of primary care clinics across Chicago to guide an orthopedic center's expansion strategy.
 - **Tech:** SAS, Tableau
 - **Problem solved:** Surfaced stark geographic inequities in care access tied to uninsured rates and demographics — insights that directly informed real expansion decisions.
-- 🔗 *[Add repo/dashboard link]*
 
 ---
 
@@ -118,7 +112,7 @@ Analyzed the distribution of primary care clinics across Chicago to guide an ort
 
 <!-- Optional: GitHub stats widget — swap in your actual GitHub username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parikhv04&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center"><i>Thanks for stopping by — always happy to talk healthcare data, ML, or how a tutoring side project turned into a 350-person organization.</i></p>
