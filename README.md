@@ -110,9 +110,5 @@ Analyzed the distribution of primary care clinics across Chicago to guide an ort
   </a>
 </p>
 
-<!-- Optional: GitHub stats widget — swap in your actual GitHub username -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parikhv04&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
 
 <p align="center"><i>Thanks for stopping by — always happy to talk healthcare data, ML, or how a tutoring side project turned into a 350-person organization.</i></p>
