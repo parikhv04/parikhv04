@@ -60,7 +60,7 @@ I'm especially interested in:
 > 
 >
 > <!--  **Tech used:** [e.g. Python, scikit-learn, Pandas]
-> **Sponsor:** [Company name]
+> **Sponsor:** [Company name] -->
 
 ---
 
