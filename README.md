@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Vraj Parikh 👋</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=ML%2FAI+Fellow+%40+Break+Through+Tech;Data+Analytics+%40+Bank+of+America;Public+Health+%2B+Statistics+%40+UNC+Chapel+Hill;Turning+messy+data+into+clear+decisions" alt="Typing SVG" /> </p> <!-- 📸 Add your photo! Uncomment and replace the path below with your own image (drag an image into a GitHub Issue to get a hosted URL, or add it to this repo). <p align="center"> <img src="./assets/profile.png" width="180" style="border-radius: 50%;" alt="Vraj Parikh" /> </p> -->
 
 <!--
 **parikhv04/parikhv04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
