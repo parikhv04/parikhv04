@@ -59,7 +59,7 @@ I'm especially interested in:
 > **[TBA]**
 > 
 >
-> **Tech used:** [e.g. Python, scikit-learn, Pandas]
+> <!--  **Tech used:** [e.g. Python, scikit-learn, Pandas]
 > **Sponsor:** [Company name]
 
 ---
@@ -95,7 +95,6 @@ Analyzed the distribution of primary care clinics across Chicago to guide an ort
 - 🏀 **Youth Sports Official** (i9 Sports / YMCA of the Triangle) — refereeing basketball, soccer, volleyball, and flag football since 2022
 - 💼 **BlueBridge Partners** — pro bono consulting for nonprofits across North Carolina
 - 🏛️ **NC Fellows Program** — selective, cohort-based leadership development program
-- 🎖️ **Honors Carolina** — competitive four-year academic honors program
 
 ---
 
